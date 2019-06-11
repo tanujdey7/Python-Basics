@@ -20,8 +20,8 @@ Operators
 
 Declaration of string is same as in numbers
 
-#	'  A   for apple'
-# index--> 0 1 234 5678910
+--------'A   for apple'
+index--> 0 1 234 5678910
 
 Reverse indexing starts from -1 in python
 
