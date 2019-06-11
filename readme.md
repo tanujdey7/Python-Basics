@@ -1,4 +1,4 @@
-#Numbers in  Python
+# Numbers in  Python
 
 -There are basic two types of numbers in python
 1. Integers  1 , 2 , -44 , -3
@@ -16,12 +16,12 @@ Operators
 6. Power (**)		eg: 2**3 gives 8
 
 
-#Strings in Python
+# Strings in Python
 
 Declaration of string is same as in numbers
 
-#	' A   f o r   a p p l e'
-#index--> 0 1 2 3 4 5 6 7 8 9 10
+#	'  A   for apple'
+# index--> 0 1 234 5678910
 
 Reverse indexing starts from -1 in python
 
@@ -30,7 +30,7 @@ Operators in String
 2. Repeating (*)
 
 
-#Functions
+# Functions
 1. range()
    range(lowerLimit , upperLimit)
    range(lowerLimit , upperLimit, increment)
@@ -38,7 +38,7 @@ Operators in String
    no duplicate values
    unordered list
 
-#Loops
+# Loops
 1. for loop
    for <variable> in <range>:
 	body...
