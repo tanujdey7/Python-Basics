@@ -40,7 +40,7 @@ Reverse indexing starts from -1 in python <br />
 
 # Loops<br />
 1. for loop<br />
-   for variable in range:<br />
+   for (variable) in range:<br />
 	body...<br />
 2. while loop<br />
    while (condition):<br />
